@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Transport, Not Computation: A Cross-Model Falsification Program on How 1B-3B Language Models Use Long Context"
+type: article
+authors:
+  - family-names: "Vyaltsev"
+    given-names: "Evgenii"
+    orcid: "https://orcid.org/0009-0004-3712-6798"
+  - family-names: "Vyaltsev"
+    given-names: "Daniil"
+date-released: 2026-06-04
+keywords:
+  - mechanistic interpretability
+  - long context
+  - sparse attention
+  - multi-hop reasoning
+  - retrieval
+  - matched controls
+  - falsification
+  - chain-of-thought
+license: CC-BY-4.0
+abstract: >
+  An umbrella review of a program of pre-registered, matched-control causal experiments on
+  small open language models (Llama-3.2-1B/3B, Qwen2.5-3B). After establishing that long-context
+  retention has no critical key budget (the sparse compressor is not the limit), four independent
+  causal gates - on attention, on the repair of retrieval-disambiguation failure, on multi-hop
+  synthesis, and on a directly-optimized latent state - converge on one regime-bounded thesis:
+  the network delivers and composes only through an external buffer; it does not latently compute,
+  and a latent computation state cannot be optimized into existence. The contribution is a map of
+  the boundary of internal competence, a training-free long-context engine plus a 27-byte
+  micro-hint memory architecture, and a falsification methodology that reversed its own false
+  positives.
