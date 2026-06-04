@@ -1,17 +1,10 @@
-# Transport, Not Computation
-
-
-
-
-
-
-
 [![DOI](https://zenodo.org/badge/1259663522.svg)](https://doi.org/10.5281/zenodo.20547457)
 
 
 
 
 
+# Transport, Not Computation
 
 
 **Umbrella + review for a falsification program on how 1B–3B language models use long context.**
