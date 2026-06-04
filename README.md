@@ -1,5 +1,15 @@
 # Transport, Not Computation
 
+
+
+
+
+
+[![DOI](https://zenodo.org/badge/1259663522.svg)](https://doi.org/10.5281/zenodo.20547457)
+
+
+
+
 **Umbrella + review for a falsification program on how 1B–3B language models use long context.**
 Evgenii Vyaltsev (ORCID 0009-0004-3712-6798), Daniil Vyaltsev — June 2026.
 
